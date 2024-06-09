@@ -5,7 +5,7 @@ I needed a way to transcribe audio locally but i couldn't find anything that fit
 ## Installation
 Clone the repo,
 ```
-git clone https://github.com/Niko-Drossos/Local-Audio-Translation.git
+git clone https://github.com/Niko-Drossos/Local-Audio-Transcription.git
 ```
 
 Install dependencies,
